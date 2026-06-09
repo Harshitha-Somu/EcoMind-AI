@@ -144,6 +144,6 @@ GEMINI_API_KEY=YOUR_API_KEY
 
 ## 👩‍💻 Developed By
 
-**Harshitha Somu**
+**Team Visionary Five**
 
 EcoMind AI — Building Intelligent Solutions for Sustainable Futures 🌱
