@@ -2,6 +2,10 @@
 
 ## Multi-Agent Sustainability Intelligence System
 
+🚀 Live Demo
+
+🔗 Try EcoMind AI Live
+
 https://ecomind-sustainability-ai.streamlit.app/
 
 EcoMind AI is an AI-powered sustainability intelligence platform that analyzes energy consumption, detects anomalies, identifies root causes, predicts savings, evaluates environmental impact, and generates actionable sustainability recommendations using a multi-agent architecture.
