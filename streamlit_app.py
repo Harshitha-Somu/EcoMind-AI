@@ -818,9 +818,6 @@ def render_header():
     <div class="em-hero">
         <div class="em-hero-grid"></div>
         <div style="position:relative;z-index:2;">
-            <div class="em-hero-badge">
-                🤖 &nbsp; Multi-Agent AI System
-            </div>
             <h1>🌱 EcoMind AI</h1>
             <p>Intelligent Sustainability & Energy Analysis Platform</p>
             <div style="display:flex;justify-content:center;gap:10px;margin-top:1rem;flex-wrap:wrap;">
