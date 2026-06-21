@@ -2,8 +2,6 @@
 
 ## Multi-Agent Sustainability Intelligence System
 
-🚀 Live Demo
-
 🔗 Try EcoMind AI Live
 
 https://ecomind-sustainability-ai.streamlit.app/
